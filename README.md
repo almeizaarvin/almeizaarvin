@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @almeizaarvin
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in software engineering and UI/UX design.
+- 🌱 I’m currently learning web development and mobile android development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 https://id.linkedin.com/in/almeiza-arvin-muzaki-2b231919b
