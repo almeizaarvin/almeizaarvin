@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @almeizaarvin
-- 👀 I’m interested in software engineering and UI/UX design.
+- 👀 I’m interested in fullstack and mobile development
 - 🌱 I’m currently learning web development and mobile android development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
