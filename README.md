@@ -12,7 +12,7 @@ I'm a passionate cloud enthusiast and aspiring backend developer. Welcome to my 
 
 ## Connect with Me
 
-- 📫 Feel free to reach out to me on [LinkedIn]([Your LinkedIn Profile URL](https://www.linkedin.com/in/almeiza-arvin-muzaki-2b231919b/))!
+- 📫 Feel free to reach out to me on ([LinkedIn](https://www.linkedin.com/in/almeiza-arvin-muzaki-2b231919b/))!
 
 ## Technologies
 
