@@ -4,10 +4,8 @@ I'm a passionate DevOps practitioner with a keen interest in cloud technologies 
 
 ## About Me
 
-- 💼 I'm currently honing my skills in cloud technologies and backend systems.
-- 🌱 I'm exploring AWS, GCP, and expanding my knowledge in PostgreSQL and Python.
-- 🔭 I’m focused on building scalable, efficient cloud-native applications.
-- 📚 I have a strong passion for continuous learning and knowledge sharing.
+- 📚 I'm currently honing my skills in cloud technologies and backend systems.
+- 🔭 I'm exploring AWS, GCP, and expanding my knowledge in PostgreSQL and Python.
 - 💬 Feel free to ask me anything about DevOps, cloud computing, or backend development!
 
 ## Connect with Me
@@ -20,7 +18,7 @@ Here are some of the technologies I work with:
 
 - ☁️ **Cloud Platforms**: AWS, Google Cloud Platform (GCP), Azure
 - 💻 **Programming Languages**: Java, Python
-- 🛠️ **DevOps Tools**: Docker, Kubernetes, Terraform
-- 🗄️ **Databases**: PostgreSQL
+- 🛠️ **DevOps Tools**: Docker, Docker Swarm, Jenkins, Kubernetes, Terraform
+- 🗄️ **Databases**: MongoDB, PostgreSQL
 
 Thanks for stopping by! 🚀
