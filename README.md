@@ -1,6 +1,6 @@
 # Hello, I'm Arvin! 👋
 
-I'm a passionate DevOps practitioner with a keen interest in cloud technologies and backend development. Welcome to my GitHub profile!
+I'm a passionate Backend practitioner with a keen interest in cloud technologies and infrastructure. Welcome to my GitHub profile!
 
 ## About Me
 
