@@ -1,12 +1,11 @@
 # Hello, I'm Arvin! 👋
 
-I'm a passionate Backend practitioner with a keen interest in cloud technologies and infrastructure. Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
 ## About Me
 
-- 📚 I'm currently honing my skills in cloud technologies and backend systems.
-- 🔭 I'm exploring AWS, GCP, and expanding my knowledge in PostgreSQL and Python.
-- 💬 Feel free to ask me anything about DevOps, cloud computing, or backend development!
+- 🔭 I'm currently exploring ERP Applications and DevOps
+- 💬 Feel free to ask me anything about Fullstack Development!
 
 ## Connect with Me
 
@@ -16,9 +15,9 @@ I'm a passionate Backend practitioner with a keen interest in cloud technologies
 
 Here are some of the technologies I work with:
 
-- ☁️ **Cloud Platforms**: AWS, Google Cloud Platform (GCP), Azure
-- 💻 **Programming Languages**: Java, Python
-- 🛠️ **DevOps Tools**: Docker, Docker Swarm, Jenkins, Kubernetes, Terraform
-- 🗄️ **Databases**: MongoDB, PostgreSQL
+- 💻 **Programming Languages**: Java, Python, Javascript, Typescript
+- 🛠️ **DevOps Tools**: Docker, Docker Swarm, Kubernetes, Jenkins, Grafana, Prometheus, Terraform
+- 🗄️ **Databases**: MongoDB, MySQL, MariaDB, PostgreSQL
+- 🕹️ **Others**: Forca ERP, Unity, Unreal Engine
 
 Thanks for stopping by! 🚀
