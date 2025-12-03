@@ -17,7 +17,7 @@ Here are some of the technologies I work with:
 
 - 💻 **Programming Languages**: Java, Python, Javascript, Typescript
 - 🛠️ **DevOps Tools**: Docker, Docker Swarm, Kubernetes, Jenkins, Grafana, Prometheus, Terraform
-- 🗄️ **Databases**: MongoDB, MySQL, MariaDB, PostgreSQL
-- 🕹️ **Others**: Forca ERP, Unity, Unreal Engine
+- 🗄️ **Databases**: MongoDB, MySQL, Firebase, PostgreSQL
+- 🕹️ **Others**: Forca ERP, Django ERP, Unity, Unreal Engine
 
 Thanks for stopping by! 🚀
